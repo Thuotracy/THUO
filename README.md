@@ -15,7 +15,7 @@
 {No.There aren't any known bug }
 ## I used HtML and CSS to create this webpage.}
 ## Support and contact details
-Incase of any issues kindly contact me.}
+Incase of any issues kindly contact me through tracyjacobs775@gmail.com}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license
