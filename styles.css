@@ -23,7 +23,16 @@ body{
     margin-top: 2%;
     margin-right: 2%;
 }
-
+.about-me{
+    background-color: white;
+    height: 1350px;
+    margin-bottom: 2%;
+    width: 60%;
+    padding: 2%;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-top: 2%;
+}
 
 
 
