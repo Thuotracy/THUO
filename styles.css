@@ -61,6 +61,25 @@ body{
     width: 70%;
     margin-left: 20%;
 }
+.hobbies{
+    margin-top: 1%;
+}
+.hobbies h2{
+    text-align: center;
+    font-size: 2.5rem;
+    
+}
+.hobbies p{
+    font-size: 1.5rem;
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.hobbies ol{
+    line-height: 1.5;
+    font-size: 2rem;
+    margin-left: 35%;
+}
 
 
 
