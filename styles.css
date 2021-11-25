@@ -54,6 +54,13 @@ body{
     text-align: center;
     font-weight: bold;
 }
+.interest{
+    text-align: center;
+    font-size: 2rem;
+    line-height: 2;
+    width: 70%;
+    margin-left: 20%;
+}
 
 
 
