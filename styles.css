@@ -91,30 +91,3 @@ body{
 .projects a{
     margin-left: 35%;
 }
-
-
-
-body{
-    background-color: silver;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
-
-}
-
-#education{
-    color: red;
-    font-family: cursive;
-}
-
-.tracy{
-    text-align: center;
-    color: crimson;
-    text-shadow: 2px 2px 2px black;
-    font-style: oblique;
-    background-color: teal;
-}
-.image{
-    float: right;
-    border: 5px solid;
-    border-radius: 10px;
-}
