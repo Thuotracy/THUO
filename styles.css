@@ -80,6 +80,11 @@ body{
     font-size: 2rem;
     margin-left: 35%;
 }
+.projects{
+    font-size: 2rem;
+    margin-top:2%;
+    line-height: 2;
+}
 .projects h2, h3{
     text-align: center;
 }
