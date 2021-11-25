@@ -16,7 +16,13 @@ body{
     background-color: teal;
     font-size: 2rem;
 }
-
+.image img{
+    float: right;
+    border-radius: 10px;
+    height: 500px;
+    margin-top: 2%;
+    margin-right: 2%;
+}
 
 
 
