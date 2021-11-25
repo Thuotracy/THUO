@@ -1,3 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: silver;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+.tracy{
+    text-align: center;
+    color: crimson;
+    text-shadow: 2px 2px 2px black;
+    font-style: oblique;
+    background-color: teal;
+    font-size: 2rem;
+}
+
+
+
+
+
+
 body{
     background-color: silver;
     font-family: 'Times New Roman', Times, serif;
