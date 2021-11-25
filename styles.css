@@ -33,7 +33,27 @@ body{
     margin-left: 5%;
     margin-top: 2%;
 }
-
+#education{
+    height: 300px;
+    width: 100%;
+    position: relative;
+}
+#education h2{
+    text-align: center;
+    margin-top: 2%;
+    font-size: 2.5rem;
+}
+#education ul{
+    list-style: disc;
+    font-size: 2rem;
+    margin-left: 35%;
+    line-height: 1.5;
+}
+#education .topic{
+    font-size: 2.2rem;
+    text-align: center;
+    font-weight: bold;
+}
 
 
 
